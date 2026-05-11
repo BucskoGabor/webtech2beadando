@@ -2,7 +2,7 @@
 
 Ez egy modern, teljes körű (full-stack) terméknyilvántartó alkalmazás, amely lehetővé teszi termékek kezelését (CRUD műveletek) egy biztonságos felületen keresztül.
 
-## Technológiai Stukk
+## Technológiai Stack
 
 - **Frontend**: Angular 19+, Angular Material
 - **Backend**: Node.js, Express
