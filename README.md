@@ -33,7 +33,7 @@ A projekt két fő részből áll: `backend` és `frontend`. Mindkettőt külön
    ```bash
    npm start
    ```
-   *A szerver alapértelmezés szerint a `http://localhost:5000` címen fut.*
+   *Az API szerver alapértelmezés szerint a `http://localhost:5000` címen fut.*
    *Megjegyzés: A backend automatikusan elindít egy memóriában futó MongoDB-t, így nem szükséges külön adatbázis telepítése.*
 
 ### 2. Frontend Beállítása
@@ -50,7 +50,7 @@ A projekt két fő részből áll: `backend` és `frontend`. Mindkettőt külön
    ```bash
    npm start
    ```
-   *Az alkalmazás a `http://localhost:4200` címen lesz elérhető.*
+   *A felhasználói felület (UI) a **http://localhost:4200** címen lesz elérhető. Ezt a címet nyisd meg a böngészőben!*
 
 ## Bejelentkezési Adatok
 
