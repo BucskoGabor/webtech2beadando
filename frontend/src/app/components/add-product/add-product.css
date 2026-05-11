@@ -1,0 +1,25 @@
+.full-width {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.row {
+  display: flex;
+  gap: 15px;
+}
+
+.half-width {
+  flex: 1;
+}
+
+mat-dialog-title {
+  color: #333;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 15px !important;
+  margin-bottom: 20px !important;
+}
+
+mat-dialog-actions {
+  padding: 15px 0 0 0 !important;
+  border-top: 1px solid #eee;
+}
